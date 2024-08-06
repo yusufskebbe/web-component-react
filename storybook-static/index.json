@@ -1,0 +1,1 @@
+{"v":5,"entries":{"example-mywebcomponent--default":{"type":"story","id":"example-mywebcomponent--default","name":"Default","title":"Example/MyWebComponent","importPath":"./src/stories/Mycomponent.stories.jsx","componentPath":"./src/components/Mycomponent.jsx","tags":["dev","test"]}}}
